@@ -400,3 +400,8 @@ button[type="submit"]{
 
 }
 }
+
+/*---------------------Maps*/
+#map{
+    height: 100%
+}
