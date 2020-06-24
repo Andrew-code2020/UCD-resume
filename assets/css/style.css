@@ -402,6 +402,6 @@ button[type="submit"]{
 }
 
 /*---------------------Maps*/
-#map{
-    height: 100%
+div #map{
+    min-height: 360px;
 }
